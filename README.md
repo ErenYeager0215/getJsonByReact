@@ -1,0 +1,2 @@
+# getJsonByReact
+Created with CodeSandbox
